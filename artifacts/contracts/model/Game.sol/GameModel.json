@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "GameModel",
+  "sourceName": "contracts/model/Game.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea264697066735822122028d6f149e4c8f4fc4c2045f89cc07c843834205b79931b5bc8d7b46d591aecde64736f6c63430008040033",
+  "deployedBytecode": "0x6080604052600080fdfea264697066735822122028d6f149e4c8f4fc4c2045f89cc07c843834205b79931b5bc8d7b46d591aecde64736f6c63430008040033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
